@@ -7,7 +7,7 @@ footer:
   credit: false
   custom: true
 
-footer_custom: "© <script>document.write(new Date().getFullYear())</script>. All Rights Reserved. Shanta Huirem."
+footer_custom: '© <script>document.write(new Date().getFullYear())</script>. All Rights Reserved. Shanta <a href="https://huirem.com">Huirem</a>.'
 
 # Styles
 styles:
