@@ -1,2 +1,3 @@
-# shanta.mom
-Shanta Huirem
+# Shanta Huirem
+
+[Shanta Huirem](https://shanta.oinam.com/)
