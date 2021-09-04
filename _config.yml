@@ -1,31 +1,11 @@
 title: Shanta Huirem
-description: ''
-
 remote_theme: oinam/oinam-jekyll
 
 footer:
-  credit: true
   custom: true
 
 footer_custom: '© <script>document.write(new Date().getFullYear())</script>. All Rights Reserved. Shanta <a href="https://huirem.com">Huirem</a>.'
 
-# Styles
 styles:
-  font_family: sans # serif, sans
-
-markdown: kramdown
-permalink: pretty
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-optional-front-matter
-  - jekyll-titles-from-headings
-
-exclude:
-  - .jekyll-cache/
-  - .sass-cache/
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - gemfiles/
-  - README.*
+  forms: false
+  syntax_highlighter: false
