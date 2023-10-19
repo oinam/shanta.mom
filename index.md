@@ -6,4 +6,4 @@ layout: page
 
 I have two daughters -- [Amara](https://amara.site), and [Laaija](https://laaija.com/). I'm married to [Brajeshwar](https://brajeshwar.com) and I run the [Oinam](https://oinam.com) family.
 
-Yes, you should read our family's weird, funny [stories](https://stories.oinam.com).
+Yes, you should read our family's weird, funny [stories](https://story.oinam.com).
